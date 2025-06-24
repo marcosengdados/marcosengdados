@@ -7,19 +7,21 @@
 
 ## 🌱 Minhas contribuições:
 
-Olá, sou Marcos, um entusiasta de dados com paixão por resolver problemas complexos através da análise de dados. Tenho experiência em projetos que envolvem análise de dados, aprendizado de máquina e visualização de dados, utilizando ferramentas como Python, R, SQL e C++.
+Olá, sou Marcos, um entusiasta de dados com paixão por resolver problemas complexos através da análise de dados. Tenho experiência em projetos que envolvem análise de dados, aprendizado de máquina e visualização de dados, utilizando ferramentas como Python, R, SQL e C para microcontroladores.
 
-Minha experiência em aprendizado de máquina abrange desde a criação de modelos de classificação e regressão até a implementação de técnicas avançadas de processamento de dados, engenharia de recursos e algoritmos para análise preditiva.
+Minha jornada combina automação, análise de dados e engenharia embarcada, com foco em transformar processos manuais em soluções inteligentes e integradas. Durante minha participação no programa EmbarcaTech, desenvolvi projetos utilizando linguagem C para microcontroladores, manipulando sensores, atuadores e comunicação serial com ESP32, aplicando conceitos fundamentais de sistemas embarcados.
 
-Desenvolvo dashboards interativos para monitoramento em diversas áreas, incluindo engenharia, logística e vendas, utilizando Power BI e SQL. Esses dashboards permitem o acompanhamento de indicadores-chave como vendas, estoque, margem e satisfação do cliente, com a capacidade de filtrar por região, loja e produto.
+No campo da automação de processos, utilizo o n8n para orquestrar fluxos de dados entre diferentes sistemas, como planilhas, bancos de dados e APIs, eliminando tarefas repetitivas e melhorando a eficiência operacional. Integro esses fluxos com scripts Python para etapas mais avançadas de transformação e análise.
 
-Implementei um sistema de automação utilizando Python e a biblioteca PyAutoGUI. Este sistema utiliza um método de mapeamento de passos no computador para automatizar processos repetitivos, resultando em um aumento significativo na produtividade.
+Tenho experiência com Web Scraping e Selenium, ferramentas que utilizo para extrair informações de páginas web de forma estruturada, alimentando sistemas internos ou dashboards com dados públicos ou institucionais, como os de prefeituras e órgãos ambientais. Esses dados raspados são frequentemente processados em pipelines automatizados com Python e integrados a rotinas no n8n, formando soluções completas de ingestão e análise.
 
-Estou familiarizado com o uso de várias ferramentas de IA para aumentar a produtividade, incluindo a geração de imagens com Midjourney e Canva, e aprimoramento de textos e copywriting com Copy.ai. Essas ferramentas me permitem fornecer uma experiência de serviço que agrega valor significativo à empresa.
+Na área de dados, criei modelos de classificação e regressão, aplicando técnicas de pré-processamento, seleção de variáveis e validação cruzada. Também desenvolvo dashboards interativos com Power BI e SQL, voltados para setores como engenharia, vendas e logística, permitindo o acompanhamento de indicadores como volume de vendas, estoque e margem por região ou loja.
 
-Estou sempre em busca de novos desafios e oportunidades de aprendizado nas áreas de Análise, Engenharia e Ciência de Dados. Meu objetivo é utilizar meus conhecimentos e habilidades para gerar valor e impacto para as organizações e para a sociedade.
+Adicionalmente, aplico ferramentas de IA generativa, como Midjourney, Canva e Copy.ai, para otimizar a comunicação visual e textual de projetos, desde apresentações técnicas até relatórios automatizados.
 
-Você pode conferir meus projetos e códigos no meu GitHub. Se quiser entrar em contato comigo, pode me enviar uma mensagem pelo LinkedIn ou pelo meu e-mail. 
+Sou motivado por desafios que envolvam automação, integração e inteligência de dados, buscando sempre desenvolver soluções que gerem impacto direto nos resultados de negócios e na sustentabilidade de processos.
+
+Você pode conferir meus projetos e códigos no meu repositório. Se quiser entrar em contato comigo, pode me enviar uma mensagem pelo LinkedIn ou pelo meu e-mail. 
 
 * Obrigado pela atenção. 😊
 
@@ -27,7 +29,6 @@ Você pode conferir meus projetos e códigos no meu GitHub. Se quiser entrar em 
 
 <div style ="display: inline_block"><br/>
  <img align ="center" alt ="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
- <img align ="center" alt ="c#" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
  <img align ="center" alt ="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img align ="center" alt ="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
  <img align ="center" alt ="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
