@@ -29,9 +29,9 @@ marcos = {
     "posição"       : "Engenheiro Ambiental · Analista de Dados",
     "formação"      : ["Engenharia Ambiental – IFBA (2019–2025)",
                        "Analista de Dados Profissional – EBAC (2024–2025)"],
-    "especialidade" : "Dados aplicados à gestão ambiental, recursos hídricos e ESG",
+    "especialidade" : "Dados aplicados à automação de processos na gestão ambiental, recursos hídricos e ESG",
     "diferencial"   : "Transformo dados técnicos de campo e laboratório em decisões estratégicas",
-    "stack_core"    : ["Python · Pandas · NumPy", "SQL", "Power BI · Tableau · Excel",
+    "stack_core"    : ["Python · ArcGis · Pandas · NumPy", "SQL", "Power BI · Tableau · Excel",
                        "QGIS · AutoCAD", "Selenium · Web Scraping"],
     "idiomas"       : {"Português": "Nativo", "Espanhol": "Avançado", "Inglês": "Básico"}
 }
