@@ -5,7 +5,7 @@
 
 <!-- BADGES DE CONTATO -->
 <a href="mailto:marcos.engdados@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-marcos12vini2%40gmail.com-1B4332?style=for-the-badge&logo=gmail&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/Gmail-marcos.engdados%40gmail.com-1B4332?style=for-the-badge&logo=gmail&logoColor=d8f3dc&labelColor=1b4332"/>
 </a>
 <a href="https://www.linkedin.com/in/marcosdados">
   <img src="https://img.shields.io/badge/LinkedIn-marcosdados-1B4332?style=for-the-badge&logo=linkedin&logoColor=d8f3dc&labelColor=1b4332"/>
