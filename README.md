@@ -20,7 +20,7 @@
 ## 🌿 Quem sou eu
 
 Sou **Engenheiro Ambiental** com formação complementar em **Análise de Dados**, atuando em projetos de **recursos hídricos, gestão de resíduos, licenciamento ambiental, ESG e automação de processos**.  
-Transformo dados técnicos — de campo, laboratório e sistemas — em **decisões estratégicas ambientais** com impacto real.
+Transformo dados técnicos de campo, laboratório e sistemas em **decisões estratégicas ambientais** com impacto real.
 
 ---
 
