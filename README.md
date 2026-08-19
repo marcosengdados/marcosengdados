@@ -3,10 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=200&section=header&text=Marcos%20Vinicius%20Lima&fontSize=42&fontColor=d8f3dc&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20Ambiental%20%7C%20Analista%20de%20Dados&descAlignY=58&descSize=18&descColor=b7e4c7"/>
 
 <a href="mailto:eng.limamarcos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-marcos.engdados%40gmail.com-1B4332?style=for-the-badge&logo=gmail&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/Gmail-eng.limamarcos%40gmail.com-1B4332?style=for-the-badge&logo=gmail&logoColor=d8f3dc&labelColor=1b4332"/>
 </a>
 <a href="https://www.linkedin.com/in/marcosamb">
-  <img src="https://img.shields.io/badge/LinkedIn-marcosdados-1B4332?style=for-the-badge&logo=linkedin&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/LinkedIn-marcosamb-1B4332?style=for-the-badge&logo=linkedin&logoColor=d8f3dc&labelColor=1b4332"/>
 </a>
 <a href="https://github.com/marcosengdados">
   <img src="https://img.shields.io/badge/GitHub-marcosengdados-1B4332?style=for-the-badge&logo=github&logoColor=d8f3dc&labelColor=1b4332"/>
