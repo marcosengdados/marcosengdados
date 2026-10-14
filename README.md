@@ -1,93 +1,97 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=200&section=header&text=Marcos%20Vinicius%20Lima&fontSize=42&fontColor=d8f3dc&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20Ambiental%20%7C%20Analista%20de%20Dados&descAlignY=58&descSize=18&descColor=b7e4c7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,50:1b4332,100:2d6a4f&height=220&section=header&text=Marcos%20Vinícius%20Lima&fontSize=42&fontColor=d8f3dc&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20Ambiental%20%7C%20Analista%20de%20Dados%20%7C%20Desenvolvedor&descAlignY=58&descSize=16&descColor=b7e4c7"/>
 
-<a href="mailto:eng.limamarcos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-eng.limamarcos%40gmail.com-1B4332?style=for-the-badge&logo=gmail&logoColor=d8f3dc&labelColor=1b4332"/>
+<!-- Contatos e Links (Estilo Dark Green) -->
+<a href="https://marcosengdados.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-081c15?style=for-the-badge&logo=Web&logoColor=d8f3dc&labelColor=1b4332"/>
 </a>
-<a href="https://www.linkedin.com/in/marcosamb">
-  <img src="https://img.shields.io/badge/LinkedIn-marcosamb-1B4332?style=for-the-badge&logo=linkedin&logoColor=d8f3dc&labelColor=1b4332"/>
+<a href="mailto:marcos.engdados@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-081c15?style=for-the-badge&logo=gmail&logoColor=d8f3dc&labelColor=1b4332"/>
 </a>
-<a href="https://github.com/marcosengdados">
-  <img src="https://img.shields.io/badge/GitHub-marcosengdados-1B4332?style=for-the-badge&logo=github&logoColor=d8f3dc&labelColor=1b4332"/>
+<a href="https://www.linkedin.com/in/marcosamb" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-081c15?style=for-the-badge&logo=linkedin&logoColor=d8f3dc&labelColor=1b4332"/>
 </a>
-<img src="https://img.shields.io/badge/São%20Paulo%2C%20SP-1B4332?style=for-the-badge&logo=googlemaps&logoColor=d8f3dc&labelColor=1b4332"/>
+<a href="https://github.com/marcosengdados" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-081c15?style=for-the-badge&logo=github&logoColor=d8f3dc&labelColor=1b4332"/>
+</a>
+
+<br>
+<img src="https://img.shields.io/badge/São%20Paulo%2C%20SP-081c15?style=for-the-badge&logo=googlemaps&logoColor=d8f3dc&labelColor=1b4332"/>
 
 </div>
 
 ---
 
-## 🌿 Quem sou eu
+## 🌿 Sobre Mim
 
-Sou **Engenheiro Ambiental** com formação complementar em **Análise de Dados**, atuando em projetos de **recursos hídricos, gestão de resíduos, licenciamento ambiental, ESG e automação de processos**.  
-Transformo dados técnicos de campo, laboratório e sistemas em **decisões estratégicas ambientais** com impacto real.
+Sou **Engenheiro Ambiental** (CREA Ativo) e **Analista/Engenheiro de Dados**. Minha especialidade é construir a ponte entre o campo ambiental e a tecnologia, desenvolvendo pipelines de dados, automações de processos (RPA) e visualizações inteligentes para **licenciamento ambiental, ESG, recursos hídricos e gestão de resíduos**.
 
----
-
-## 🚀 Projetos — Problema · Solução · Resultado
-
-### 🕷️ [Monitoramento Automatizado de Licenciamentos Ambientais](https://github.com/marcosengdados/Web.Scraping)  
-Automatização da coleta de dados em portais públicos de licenciamento, eliminando monitoramento manual e garantindo relatórios estruturados para tomada de decisão.
+Transformo dados técnicos brutos, legislações complexas (CONAMA, ANVISA) e planilhas operacionais em **decisões estratégicas automatizadas** com impacto real e escalável.
 
 ---
 
-### 💧 [Modelagem de Autodepuração em Corpos Hídricos](https://github.com/marcosengdados/Projeto-autodepura-o-hidrica)  
-Simulação de parâmetros de qualidade da água (OD, DBO) em perfis longitudinais, apoiando estudos de impacto e gestão hídrica.
+## ⚙️ Stack Tecnológico & Skills
+
+<div align="center">
+  
+  ### 🐍 Dados & Desenvolvimento
+  <img src="https://img.shields.io/badge/Python-081c15?style=for-the-badge&logo=python&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/Pandas-081c15?style=for-the-badge&logo=pandas&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/SQL-081c15?style=for-the-badge&logo=sqlite&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/Playwright-081c15?style=for-the-badge&logo=playwright&logoColor=d8f3dc&labelColor=1b4332"/>
+  
+  ### 📊 Business Intelligence & Visualização
+  <img src="https://img.shields.io/badge/Power_BI-081c15?style=for-the-badge&logo=powerbi&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/DAX_%2F_Star_Schema-081c15?style=for-the-badge&logo=microsoft&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/Tableau-081c15?style=for-the-badge&logo=tableau&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/Excel_Avançado-081c15?style=for-the-badge&logo=microsoftexcel&logoColor=d8f3dc&labelColor=1b4332"/>
+
+  ### 🌍 Geoprocessamento & Gestão
+  <img src="https://img.shields.io/badge/QGIS-081c15?style=for-the-badge&logo=qgis&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/ClickUp-081c15?style=for-the-badge&logo=clickup&logoColor=d8f3dc&labelColor=1b4332"/>
+  <img src="https://img.shields.io/badge/Normas_Ambientais-081c15?style=for-the-badge&logo=awsorganizations&logoColor=d8f3dc&labelColor=1b4332"/>
+
+</div>
 
 ---
 
-### 🌊 [Avaliação de Disponibilidade Hídrica](https://github.com/marcosengdados/disponibilidade-hidrica-corpo-receptor)  
-Modelo replicável para análise de capacidade de suporte de corpos receptores, integrando dados de vazão e critérios normativos.
+## 🚀 Projetos em Destaque
+
+| Projeto & Link | Stack Principal | O que resolve? (Problema ➔ Solução) |
+| :--- | :---: | :--- |
+| **[🤖 Automação Licenciamento CETESB](https://github.com/marcosengdados/licenciamentoCETESB-webscrapling)** | `Python` `Playwright` | **Problema:** Monitoramento manual e lento de processos no portal da CETESB.<br>**Solução:** Web scraper automatizado que extrai e estrutura os dados de licenciamento, garantindo compliance e eficiência. |
+| **[📊 Dashboard SGQualidade](https://github.com/marcosengdados/Dashboard_SGQualidade)** | `Power BI` `DAX` | **Problema:** Dados laboratoriais e de campo dispersos, dificultando a visão macro.<br>**Solução:** Painel interativo usando Modelagem Star Schema para monitoramento de KPIs ambientais e operacionais em tempo real. |
+| **[🗺️ Mapas Demonstrativos Ambientais](https://github.com/marcosengdados/mapas_demonstrativos)** | `QGIS` | **Problema:** Falta de clareza espacial em estudos de impacto.<br>**Solução:** Cartografia técnica e temática para suporte direto a relatórios ambientais e obtenção de licenças. |
+| **[📋 Dashboard de Auditoria Interna](https://github.com/marcosengdados/Dashboard-auditoria-interna)** | `Power BI` `Excel` | **Problema:** Perda de rastreabilidade durante auditorias ambientais (ISO 14001).<br>**Solução:** Ferramenta visual que centraliza não-conformidades e acompanha planos de ação. |
+| **[💧 Autodepuração em Corpos Hídricos](https://github.com/marcosengdados/Projeto-autodepura-o-hidrica)** | `Python` `Eng. Sanitária`| **Problema:** Dificuldade em prever o impacto de efluentes em rios.<br>**Solução:** Simulação computacional de DBO e OD em perfis longitudinais para análise de capacidade de suporte. |
+
+<details>
+<summary><b>📂 Ver mais projetos técnicos (Clique para expandir)</b></summary>
+<br>
+
+- **[Avaliação de Disponibilidade Hídrica](https://github.com/marcosengdados/disponibilidade-hidrica-corpo-receptor):** Modelo replicável integrando dados de vazão e normativas.
+- **[Inteligência Ambiental Brasileira](https://github.com/marcosengdados/Inteligencia-Ambiental-Brasileira):** Estruturação de dados públicos nacionais para decisões estratégicas.
+- **[PGRSS - Gestão de Resíduos de Saúde](https://github.com/marcosengdados/Plano-gestao-residuos-saude):** Plano técnico normatizado (RDC ANVISA nº 222/2018 e NR-32).
+- **[Caracterização de Agregados Reciclados (Extensão)](https://www.linkedin.com/posts/marcosdados_projeto_extensao_concreto):** Pesquisa aplicada de brita reciclada para concreto sustentável (Método ACI).
+</details>
 
 ---
 
-### 📊 [Dashboard SGQualidade](https://github.com/marcosengdados/Dashboard_SGQualidade)  
-Painel interativo para monitoramento de indicadores ambientais e operacionais, integrando dados laboratoriais e de campo em tempo real.
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marcosengdados&show_icons=true&theme=dark&hide_border=true&bg_color=081c15&title_color=40916c&icon_color=d8f3dc&text_color=b7e4c7" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosengdados&layout=compact&theme=dark&hide_border=true&bg_color=081c15&title_color=40916c&text_color=b7e4c7" />
+</div>
 
 ---
 
-### 🗺️ [Mapas Demonstrativos Ambientais](https://github.com/marcosengdados/mapas_demonstrativos)  
-Produção de mapas técnicos e demonstrativos para suporte a relatórios ambientais e processos de licenciamento.
+## 🌱 Radar de Estudos Atuais
 
----
-
-### 📋 [Dashboard de Auditoria Interna](https://github.com/marcosengdados/Dashboard-auditoria-interna)  
-Ferramenta visual para auditoria interna de processos ambientais, garantindo rastreabilidade e conformidade regulatória.
-
----
-
-### 🌎 [Inteligência Ambiental Brasileira](https://github.com/marcosengdados/Inteligencia-Ambiental-Brasileira)  
-Integração e análise de dados ambientais nacionais, estruturando informações públicas para apoiar políticas e decisões estratégicas.
-
----
-
-### 🏥 [Plano de Gerenciamento de Resíduos de Saúde — PGRSS](https://github.com/marcosengdados/Plano-gestao-residuos-saude)  
-Estruturação completa de plano técnico normatizado para conformidade regulatória e obtenção de alvarás sanitários.
-
----
-
-### 🏗️ [Caracterização de Agregados Reciclados](https://www.linkedin.com/posts/marcosdados_projeto_extensao_concreto)  
-Base de dados confiável para reaproveitamento de resíduos da construção civil como agregados reciclados.
-
----
-
-## ⚡ O que entrego com cada ferramenta
-
-- 🐍 **Python + Selenium →** automação de processos ambientais  
-- 📊 **Power BI/Tableau →** dashboards de KPIs ambientais  
-- 🗺️ **QGIS →** mapas técnicos para licenciamento  
-- 🗄️ **SQL →** estruturação de bases ambientais  
-- 📋 **Excel Avançado →** otimização de fluxos logísticos  
-- ⚙️ **ClickUp →** rastreabilidade de projetos ambientais  
-
----
-
-## 🌱 Em desenvolvimento agora
-
-- 🔬 Modelagem preditiva de qualidade da água com Python  
-- 📊 Dashboards ambientais integrados a dados laboratoriais  
-- 🗄️ SQL avançado para bases operacionais ambientais  
-- 🤖 Machine Learning aplicado ao monitoramento ambiental  
+- 🤖 Integração de LLMs (Gemini/Grok) em fluxos de trabalho e arquitetura de Agentes (*Multi-agent*).
+- 🔬 Modelagem preditiva e Machine Learning aplicados ao monitoramento da qualidade da água.
+- 🗄️ SQL avançado para arquitetura e pipelines de bases operacionais ambientais.
 
 ---
 
@@ -95,20 +99,16 @@ Base de dados confiável para reaproveitamento de resíduos da construção civi
 
 ### 💬 Vamos conversar?
 
-Aberto a oportunidades em **Análise de Dados · Business Intelligence · Dados Ambientais · ESG · Automação · Geoprocessamento**
+Aberto a oportunidades em **Engenharia de Dados · BI · Automação RPA · Projetos Ambientais · ESG**
 
-<a href="mailto:marcos12vini2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1B4332?style=for-the-badge&logo=gmail&logoColor=d8f3dc"/>
+<a href="mailto:marcos.engdados@gmail.com">
+  <img src="https://img.shields.io/badge/Email-081c15?style=for-the-badge&logo=gmail&logoColor=d8f3dc"/>
 </a>
 <a href="https://wa.me/5577981620717">
-  <img src="https://img.shields.io/badge/WhatsApp-1B4332?style=for-the-badge&logo=whatsapp&logoColor=d8f3dc"/>
-</a>
-<a href="https://www.linkedin.com/in/marcosdados">
-  <img src="https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=d8f3dc"/>
+  <img src="https://img.shields.io/badge/WhatsApp-081c15?style=for-the-badge&logo=whatsapp&logoColor=d8f3dc"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:40916c,50:2d6a4f,100:1a472a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1b4332,100:081c15&height=120&section=footer"/>
 
 </div>
-
 
